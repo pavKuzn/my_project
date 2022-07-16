@@ -1,1 +1,3 @@
-Feature file text
+Feature file tex
+
+Changne t in the end of first stringa
